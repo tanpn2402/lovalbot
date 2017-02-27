@@ -1,0 +1,40 @@
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Bot Application1.dll.config
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Bot Application1.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Bot Application1.pdb
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Autofac.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Chronic.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Builder.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Connector.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Newtonsoft.Json.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.Net.Http.Formatting.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.Web.Http.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.Web.Http.WebHost.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Autofac.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Builder.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Connector.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Newtonsoft.Json.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.Net.Http.Formatting.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.Web.Http.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.Web.Http.WebHost.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Debug\MyChatBot.csprojResolveAssemblyReference.cache
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Debug\Bot Application1.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Debug\Bot Application1.pdb
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\MySql.Data.dll
