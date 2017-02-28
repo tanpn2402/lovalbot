@@ -9,6 +9,7 @@ using Microsoft.Bot.Connector;
 using Newtonsoft.Json;
 using MySql.Data.MySqlClient;
 using MyChatBot.Controllers;
+using Microsoft.Bot.Builder.Dialogs;
 
 namespace MyChatBot
 {
@@ -23,18 +24,18 @@ namespace MyChatBot
         {
             if (activity.Type == ActivityTypes.Message)
             {
-                ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
-                // calculate something for us to return
-                int length = (activity.Text ?? string.Empty).Length;
+                //ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
+                //// calculate something for us to return
+                //int length = (activity.Text ?? string.Empty).Length;
 
-                int count = UserController.getAllUsers().Rows.Count;
-                string s = "" + count;
-                
-                 
-                // return our reply to the user
-                //Activity reply = activity.CreateReply($"You sent {activity.Text} which was {length} characters");
-                Activity reply = activity.CreateReply(s);
-                await connector.Conversations.ReplyToActivityAsync(reply);
+
+                //// return our reply to the user
+                ////Activity reply = activity.CreateReply($"You sent {activity.Text} which was {length} characters");
+                //Activity reply = activity.CreateReply($"Bạn đã nhập {activity.Text}");
+                //await connector.Conversations.ReplyToActivityAsync(reply);
+
+                await Conversation.SendAsync(activity, () => new LUISController());
+                //await Conversation.SendAsync(activity, () => new CardsDialog());
             }
             else
             {

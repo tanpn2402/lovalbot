@@ -18,7 +18,6 @@ D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Builder.xml
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Connector.xml
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
-D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Rest.ClientRuntime.xml
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.WindowsAzure.Configuration.xml
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Newtonsoft.Json.xml
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\System.IdentityModel.Tokens.Jwt.pdb
@@ -38,3 +37,7 @@ D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Release\MyChatBot.csprojResolveAssemb
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Release\Bot Application1.dll
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Release\Bot Application1.pdb
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\MySql.Data.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
