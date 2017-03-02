@@ -129,7 +129,7 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Bussiness\UserBUS.cs" />
-    <Compile Include="Controllers\LuisObject.cs" />
+    <Compile Include="Models\LuisObject.cs" />
     <Compile Include="DBController\DBConnection.cs" />
     <Compile Include="Controllers\LUISController.cs" />
     <Compile Include="Controllers\MessagesController.cs" />
@@ -138,6 +138,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\FacebookAttachment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValueObject\UserVO.cs" />
   </ItemGroup>

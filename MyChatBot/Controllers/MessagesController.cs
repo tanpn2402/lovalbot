@@ -8,7 +8,7 @@ using System.Web.Http.Description;
 using Microsoft.Bot.Connector;
 using Newtonsoft.Json;
 using MySql.Data.MySqlClient;
-using MyChatBot.Controllers;
+using MyChatBot.Models;
 using Microsoft.Bot.Builder.Dialogs;
 
 namespace MyChatBot

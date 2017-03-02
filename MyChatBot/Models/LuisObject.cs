@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace MyChatBot.Controllers
+namespace MyChatBot.Models
 {
     public class LuisObject
     {

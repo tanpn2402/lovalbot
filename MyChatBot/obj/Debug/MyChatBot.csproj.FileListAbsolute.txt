@@ -33,7 +33,6 @@ D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\fr\Microsoft.Bot.Builder.resources.dl
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\ja\Microsoft.Bot.Builder.resources.dll
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\ru\Microsoft.Bot.Builder.resources.dll
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
-D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Debug\MyChatBot.csprojResolveAssemblyReference.cache
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Debug\Bot Application1.dll
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Debug\Bot Application1.pdb
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\MySql.Data.dll
@@ -41,3 +40,4 @@ D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Builder.Autofac.dll
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\Microsoft.Bot.Builder.Autofac.xml
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\cs\Microsoft.Bot.Builder.resources.dll
 D:\VS2015\Chat Bot\MyChatBot\MyChatBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\VS2015\Chat Bot\MyChatBot\MyChatBot\obj\Debug\MyChatBot.csprojResolveAssemblyReference.cache

@@ -1,4 +1,4 @@
-﻿using MyChatBot.Controllers;
+﻿using MyChatBot.Models;
 using MyChatBot.DBController;
 using MySql.Data.MySqlClient;
 using System;
