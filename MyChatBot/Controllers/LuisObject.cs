@@ -10,8 +10,8 @@ namespace MyChatBot.Controllers
     {
 
         public static string urlBase = $"https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/";
-        public static string appid = "8cb04c3c-9aa9-4d69-9206-24ac390485c5";
-        public static string subkey = "fc35624f8179492f96fc5152bdefd4f9";
+        public static string appid = /*"8cb04c3c-9aa9-4d69-9206-24ac390485c5";*/ "ed5c8266-deb8-443e-97be-4db1c5851121";
+        public static string subkey = /*"fc35624f8179492f96fc5152bdefd4f9";*/  "fc35624f8179492f96fc5152bdefd4f9";
 
 
         [JsonProperty("query")]
